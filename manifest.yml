@@ -1,0 +1,5 @@
+---
+applications:
+  "app/target":
+    name: moviefun
+    mem: 256M
