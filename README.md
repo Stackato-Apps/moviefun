@@ -1,4 +1,4 @@
-Pet Catalog Sample
+Movie Fun Sample
 =============
 
 This is a full JEE6 sample.
